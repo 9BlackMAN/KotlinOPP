@@ -44,6 +44,13 @@ class MainActivity : AppCompatActivity() {
         v.test()
         v.test2()
 
+        //Abstract &&  Interface
+
+        val inter = InterfaceMain()
+        inter.test()
+
+
+
 
 
 
